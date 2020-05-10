@@ -14,8 +14,8 @@ A statistics app to provide details about Corona aoutbreak in india
 
 # Screenshot
 
-<img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/Screenshot%20(242).png"  width="210">
-<img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/Screenshot%20(243).png" width="210">
-<img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/Screenshot%20(244).png"  width="210">
+<img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/Screenshot%20(242).png?raw=true"  width="210">
+<img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/Screenshot%20(243).png?raw=true" width="210">
+<img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/Screenshot%20(244).png?raw=true"  width="210">
 
 
