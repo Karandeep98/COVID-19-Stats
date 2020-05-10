@@ -1,4 +1,4 @@
-# COVID-19 India Tracker
+﻿# COVID-19 India Tracker
 
 **The Aim of the app is to give latest information regarding the COVID-19 cases all over India**
 
@@ -31,7 +31,7 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ## Project Created & Maintained By
 
-### Karandeep Singh 
+### Karandeep Singh   
 **Android Developer** #Android Developer, #Passionate
 
 <a href="https://www.linkedin.com/in/karandeep98/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
