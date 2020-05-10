@@ -84,11 +84,12 @@ public class StateItem extends AbstractItem<StateItem.ViewHolder> {
 
         @Override
         public void bindView(@NotNull StateItem item, @NotNull List<?> list) {
-
+            String x="⬆";
             final Statewise statewise = item.statewise;
-
+            int deltaActive= Integer.parseInt(statewise.getDeltaconfirmed())-Integer.parseInt(statewise.getDeltarecovered())-Integer.parseInt(statewise.getDeltadeaths());
+            if(deltaActive<0) x="⬇";
             line1.setText(statewise.getState());
-            line2.setText(StringUtils.joinWith(" \n ", " Confirmed  : " + statewise.getConfirmed()+" ↑ "+statewise.getDeltaconfirmed(), "Active          : " + statewise.getActive()+" ↑ 0", "Recovered  : " + statewise.getRecovered()+" ↑ "+statewise.getDeltarecovered(), "Deaths        : " + statewise.getDeaths()+" ↑ "+statewise.getDeltadeaths()));
+            line2.setText(StringUtils.joinWith(" \n ", " Confirmed  : " + statewise.getConfirmed()+" ⬆ "+statewise.getDeltaconfirmed(), "Active          : " + statewise.getActive()+" "+x+" "+Math.abs(deltaActive), "Recovered  : " + statewise.getRecovered()+" ⬆ "+statewise.getDeltarecovered(), "Deaths        : " + statewise.getDeaths()+" ⬆ "+statewise.getDeltadeaths()));
             line3.setText(StringUtils.joinWith(" : ", "Last updated", statewise.getLastupdatedtime()));
         }
 
