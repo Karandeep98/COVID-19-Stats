@@ -81,11 +81,14 @@ public class StateWiseSheet extends BaseBottomSheet {
     }
 
     private void populateData() {
+        String x="⬆";
+        int deltaActive= Integer.parseInt(statewise.getDeltaconfirmed())-Integer.parseInt(statewise.getDeltarecovered())-Integer.parseInt(statewise.getDeltadeaths());
+        if(deltaActive<0) x="⬇";
         txtTitleState.setText(statewise.getState());
         txtLastUpdated.setText(StringUtils.joinWith(" : ", "Last updated", statewise.getLastupdatedtime()));
-        txtAllTotal.setText(statewise.getConfirmed());
-        txtAllActive.setText(statewise.getActive());
-        txtAllCured.setText(statewise.getRecovered());
-        txtAllDeaths.setText(statewise.getDeaths());
+        txtAllTotal.setText(statewise.getConfirmed()+" ⬆ "+statewise.getDeltaconfirmed());
+        txtAllActive.setText(statewise.getActive()+" "+x+" "+Math.abs(deltaActive));
+        txtAllCured.setText(statewise.getRecovered()+" ⬆ "+statewise.getDeltarecovered());
+        txtAllDeaths.setText(statewise.getDeaths()+" ⬆ "+statewise.getDeltadeaths());
     }
 }
