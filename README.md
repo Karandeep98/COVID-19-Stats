@@ -14,6 +14,6 @@ A statistics app to provide details about Corona aoutbreak in india
 
 # Screenshot
 
-<img src="https://i.imgur.com/TabVlQL.png" height="400"><img src="https://i.imgur.com/gm1rD2Y.png" height="400"><img src="https://i.imgur.com/3FWSq3f.png" height="400">
+<img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/Screenshot%20(242).png" height="400">
 
 
