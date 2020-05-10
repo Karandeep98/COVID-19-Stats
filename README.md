@@ -13,7 +13,7 @@
 # Credits
 *  Covid19India  [Official Website](https://www.covid19india.org/)
 
-## Download the app from [here](https://github.com/Karandeep98/COVID-19-Stats/blob/master/apk/COVID-19%20Tracker.apk).
+## Download the app from [here](https://github.com/Karandeep98/COVID-19-Stats/raw/master/apk/COVID-19%20Tracker.apk).
 
 
 # Screenshots
