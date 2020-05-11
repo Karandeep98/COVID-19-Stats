@@ -29,6 +29,7 @@
 
 # App preview 
 <img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/preview.gif" width="210" height="400" />|
+<img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/preview2.gif" width="210" height="400" />|
 
 ### Found this project useful? :heart:
 
