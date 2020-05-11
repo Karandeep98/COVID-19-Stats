@@ -31,7 +31,7 @@
 <p align="center">
 <img align="left"  src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/preview.gif" width="210" height="430"  />|
   <img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/preview2.gif" width="210" height="430" />|
- <img align="right"  src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/preview.gif" width="210" height="430"  />
+ <img align="right"  src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/preview3.gif" width="210" height="430"  />
   </p>
 
 ### Found this project useful? :heart:
