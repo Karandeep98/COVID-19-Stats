@@ -13,6 +13,9 @@
 # Credits
 *  Covid19India  [Official Website](https://www.covid19india.org/)
 
+## Download the app from [here](https://github.com/Karandeep98/COVID-19-Stats/raw/master/apk/COVID-19%20Tracker.apk).
+
+
 # Screenshots
 
 <img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/Screenshot%20(242).png"  width="210">|
@@ -21,7 +24,6 @@
 <img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/Screenshot%20(243).png"  width="210">|
 <img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/Screenshot%20(250).png"  width="210">|
 <img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/Screenshot%20(247).png"  width="210">|
-<img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/Screenshot%20(249).png"  width="210">|
 <img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/Screenshot%20(248).png"  width="210">|
 <img src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/Screenshot%20(246).png"  width="210">|
 
