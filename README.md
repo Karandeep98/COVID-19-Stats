@@ -34,7 +34,7 @@
  <img align="right"  src="https://github.com/Karandeep98/COVID-19-Stats/blob/master/screenshots/preview3.gif" width="210" height="430"  />
   </p>
 
-### Found this project useful? :heart:
+## Found this project useful? :heart:
 
 If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
 
@@ -44,3 +44,7 @@ If you found this project useful, then please consider giving it a :star: on Git
 **Android Developer** #Android Developer, #Passionate
 
 <a href="https://www.linkedin.com/in/karandeep98/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.facebook.com/karandeep.bindra"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
+<a href="https://www.instagram.com/karandeep_singh04/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+
+## © 2020 Karandeep Singh. All rights reserved.
